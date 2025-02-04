@@ -25,7 +25,7 @@ python.exe ./M-HUNT.py
 ### Changing the default wordlist 
 ##### In line number 74 of M-HUNT.py modify the default wordlist path manually for windows.
 ```
-wordlist_path = "C:/Users/XXXX/M-HUNT/M-HUNT/fuzz.txt"
+wordlist_path = "C:/Users/XXXX/M-HUNT/fuzz.txt"
 
 ```
 #### For Linux
