@@ -1,5 +1,6 @@
 # M-HUNT
-_____________________________________________________________________________________________________________________________________________________________________________________________________________________M-HUNT GUI is a graphical interface for feroxbuster, designed to streamline web fuzzing and directory enumeration tasks. Built with Tkinter and customtkinter, this tool makes it easier to perform web reconnaissance using an intuitive user interface.
+
+M-HUNT GUI is a graphical interface for feroxbuster, designed to streamline web fuzzing and directory enumeration tasks. Built with Tkinter and customtkinter, this tool makes it easier to perform web reconnaissance using an intuitive user interface.
 
 
 ## Installation:
