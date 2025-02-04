@@ -14,21 +14,23 @@ $ pip install customtkinter
 ```
 $ git clone https://github.com/SaicharanCEH/M-HUNT.git; \
 $ cd M-HUNT; \
-$ cd M-HUNT; \
 $ python3 M-HUNT.py
 ```
 ### From github in Windows :
 ```
 git clone https://github.com/SaicharanCEH/M-HUNT.git; \
 cd M-HUNT; \
-cd M-HUNT; \
 python.exe ./M-HUNT.py
 ```
 ### Changing the default wordlist 
-##### In line number 74 of M-HUNT.py modify the default wordlist path.
+##### In line number 74 of M-HUNT.py modify the default wordlist path manually for windows.
 ```
 wordlist_path = "C:/Users/XXXX/M-HUNT/M-HUNT/fuzz.txt"
 
+```
+#### For Linux
+```
+wordlist_path = "/home/kali/M-HUNT/fuzz.txt"
 ```
 ## 💡 Credits
 
