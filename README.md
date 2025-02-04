@@ -1,6 +1,5 @@
 # M-HUNT
-___________________________________________________________________________________________________________________________________________________________________________________________________________________________
-getallurls (gau) fetches known URLs from AlienVault's [Open Threat Exchange](https://otx.alienvault.com), the feroxbuster , Common Crawl, and URLScan for any given URL. Inspired by Tomnomnom's [waybackurls](https://github.com/tomnomnom/waybackurls).
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________M-HUNT GUI is a graphical interface for feroxbuster, designed to streamline web fuzzing and directory enumeration tasks. Built with Tkinter and customtkinter, this tool makes it easier to perform web reconnaissance using an intuitive user interface.
 
 
 ## Installation:
@@ -30,3 +29,6 @@ python.exe ./M-HUNT.py
 wordlist_path = "C:/Users/XXXX/M-HUNT/M-HUNT/fuzz.txt"
 
 ```
+## 💡 Credits
+
+Developed by Sai Charan. Special thanks to the feroxbuster team for their amazing tool!
